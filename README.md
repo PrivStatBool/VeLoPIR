@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="bbs_overall.pdf" alt="VeLoPIR Overview" width="400" />
+  <img src="bbs_overall.png" alt="VeLoPIR Overview" width="600" />
 </p>
 
 VeLoPIR is a location-based private information retrieval (PIR) system built on the TFHE library, optimized for secure location-specific data retrieval in emergency and information alert scenarios.
