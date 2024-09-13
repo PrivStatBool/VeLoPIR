@@ -1,7 +1,9 @@
 # VeLoPIR: Versatile and Fast Location-Based Private Information Retrieval with Homomorphic Encryption
 
-![VeLoPIR Overview](velopir.jpg)
-*Image generated using DALL·E*
+
+<p align="center">
+  <img src="bbs_overall.pdf" alt="VeLoPIR Overview" width="400" />
+</p>
 
 VeLoPIR is a location-based private information retrieval (PIR) system built on the TFHE library, optimized for secure location-specific data retrieval in emergency and information alert scenarios.
 
